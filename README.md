@@ -14,6 +14,8 @@ And then execute:
 
 ## Usage
 
+Instead of p
+
 ```ruby
 punk
 
