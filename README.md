@@ -18,17 +18,13 @@ Instead of p
 
 ```ruby
 punk
-
 # Oi!Oi!Oi!
 
-
 punk 'hoge'
-
 # Oi!Oi!Oi!
 # hoge
 
 punk 'hoge', 100
-
 # Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!
 # hoge
 ```
