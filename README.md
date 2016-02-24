@@ -27,9 +27,9 @@ punk 'hoge'
 # Oi!Oi!Oi!
 # hoge
 
-punk 'hoge', 10
+punk 'hoge', 100
 
-# Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!
+# Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!Oi!
 # hoge
 ```
 
