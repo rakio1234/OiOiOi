@@ -14,7 +14,7 @@ And then execute:
 
 ## Usage
 
-Instead of p
+Instead of p.
 
 ```ruby
 punk
@@ -31,8 +31,6 @@ punk 'hoge', 100
 
 ## What is Oi?
 
-Oi is Punk
+Oi is Punk.
 
-[YouTube](https://www.youtube.com/watch?v=XWLU76o5rEI)
-
-![Oi!Oi!Oi!](https://i.ytimg.com/vi/HmfdhcLVUmY/maxresdefault.jpg)
+[Cockney Rejects- Oi! Oi! Oi!](https://www.youtube.com/watch?v=XWLU76o5rEI)
